@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816161067246",
+    "project_id": "radish-52923",
+    "storage_bucket": "radish-52923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816161067246:android:b3582bbb66364d9ef4e3ff",
+        "android_client_info": {
+          "package_name": "com.bookapp.radish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816161067246-r1a2c858ojaqt4o4psbham4iqc01ndvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_niVe3CKbiVpaAIWxjskvqjx3olMvkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816161067246-r1a2c858ojaqt4o4psbham4iqc01ndvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
